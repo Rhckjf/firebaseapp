@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1071455209730",
+    "firebase_url": "https://finalexamapp-cc9f7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "finalexamapp-cc9f7",
+    "storage_bucket": "finalexamapp-cc9f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071455209730:android:5ba6ff5602b6399ad39a1b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARvHpQAe8VUj9cSxek9QgiYRr0B6vtnKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
